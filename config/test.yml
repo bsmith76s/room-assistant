@@ -9,8 +9,8 @@ bluetoothLowEnergy:
   maxDistance: 5
   allowlist:
     - "185221222119"
-    - 5c456d7e5f78
-    - dc0efde56203
+    - 5c456XXXXf78
+    - dc0efXXXX203
 homeAssistant:
   mqttUrl: 'mqtt://IP.IP.IP.10:1883'
   mqttOptions:
